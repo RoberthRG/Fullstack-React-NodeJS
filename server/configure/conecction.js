@@ -1,11 +1,11 @@
 const pgPromise = require("pg-promise");
 
 const config = {
-    user: 'qffkfulxbyehhv',
+    user: 'kwivcczozljign',
     port: '5432',
-    host: 'ec2-52-21-136-176.compute-1.amazonaws.com',
-    password: 'd4d89a7a4f9ec850f5d09d5c352ad23a77ce82a5816d9f11461dbb658ece5750',
-    database: 'dkbhagitsul2m',
+    host: 'ec2-52-3-60-53.compute-1.amazonaws.com',
+    password: '359dd62f344449a3a3f8944271e2e4c01c7a40370aca9fde86008dee84ad8315',
+    database: 'dl14lqhvu494n',
     ssl: {
         rejectUnauthorized: false
     }
