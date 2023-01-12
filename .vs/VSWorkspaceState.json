@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\cuentasxpagar",
+    "\\client\\cuentasxpagar\\src",
+    "\\server",
+    "\\server\\controllers",
+    "\\server\\routes"
+  ],
+  "SelectedNode": "\\client\\cuentasxpagar\\src\\FuentePago.js",
+  "PreviewInSolutionExplorer": false
+}
